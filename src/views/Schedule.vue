@@ -1,6 +1,6 @@
 <template>
-  <div class="home">
-    <h1>This will have the welcome stuff</h1>
+  <div class="schedule">
+    <h1>Yub nub</h1>
   </div>
 </template>
 
@@ -8,7 +8,7 @@
 // @ is an alias to /src
 
 export default {
-  name: "Home",
+  name: "Schedule",
   components: {}
 };
 </script>
