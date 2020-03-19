@@ -61,9 +61,9 @@ export default {
 }
 #inner {
   flex: 1;
+  display: flex;
 }
 #img-container {
-  background-color: green;
   height: 45vh;
   width: 85%;
   position: absolute;
